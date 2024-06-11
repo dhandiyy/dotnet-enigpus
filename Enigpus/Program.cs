@@ -38,18 +38,21 @@ public class Program
                     Console.WriteLine("Invalid choice. Please try again.");
                     break;
             }
+            Console.WriteLine();
         }
     }
 
     public static void AddBookMenu(IInventoryService inventoryService)
     {
-        Console.WriteLine("""
+        Console.Write("""
                           1. Add Novel
                           2. Add Magazine
                           Choose an option: 
                           """);
         int choice = int.Parse(Console.ReadLine());
 
+        Console.WriteLine();
+        Console.WriteLine("Insert new book data");
         Console.Write("Code: ");
         string code = Console.ReadLine();
         
@@ -69,6 +72,7 @@ public class Program
             Novel novel = new Novel(code, title, publisher, year, author);
             inventoryService.AddBook(novel);
             
+            Console.WriteLine();
             Console.WriteLine("Book added successfully!");
 
         }
@@ -78,6 +82,7 @@ public class Program
             Magazine magazine = new Magazine(code, title, publisher, year);
             inventoryService.AddBook(magazine);
             
+            Console.WriteLine();
             Console.WriteLine("Book added successfully!");
         }
         else

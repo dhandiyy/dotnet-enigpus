@@ -12,3 +12,4 @@ C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\refint\E
 C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.pdb
 C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.genruntimeconfig.cache
 C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\ref\Enigpus.dll
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.sourcelink.json
