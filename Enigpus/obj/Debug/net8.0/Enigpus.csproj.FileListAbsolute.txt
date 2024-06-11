@@ -1,0 +1,14 @@
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\bin\Debug\net8.0\Enigpus.exe
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\bin\Debug\net8.0\Enigpus.deps.json
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\bin\Debug\net8.0\Enigpus.runtimeconfig.json
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\bin\Debug\net8.0\Enigpus.dll
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\bin\Debug\net8.0\Enigpus.pdb
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.AssemblyInfoInputs.cache
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.AssemblyInfo.cs
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.dll
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\refint\Enigpus.dll
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.pdb
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\Enigpus.genruntimeconfig.cache
+C:\Users\Toshiba\RiderProjects\Enigpus\Enigpus\Enigpus\obj\Debug\net8.0\ref\Enigpus.dll
